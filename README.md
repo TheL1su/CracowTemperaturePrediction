@@ -1,5 +1,7 @@
 # Cracow Temperature Prediction
 
+Dla użytkowników: aby sprawdzić predykcje dla innego miasta, należy pobrać dane (link poniżej), skorzystać z pliku Cityfilter, wybrać odpowiednie miasto. Ten nootebook wygeneruje dane i wczytuje do pliku. Następnie w pliku CracowTemperature zmienić nazwę docelowego pliku danych oraz usunąć indeksy kolumny 'AverageTemperature' zawierające null.
+
 Tematem projektu jest predykcja temperatury dla Krakowa w ciągu najbliższych 30 lat.
 
 Dane zostały pobrane ze strony: https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data.  
