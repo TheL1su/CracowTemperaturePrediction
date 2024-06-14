@@ -47,5 +47,5 @@ oraz dokładne wartości:
 ![predicted_80](https://github.com/TheL1su/CracowTemperaturePrediction/assets/161051757/22111f64-f9be-4bbb-b58f-2edd0c908812)  
 
 **Wniosek**
-W ciągu najbliższych 30 lat średnia temperatura wzrośnie w Krakowie o około 0.5 stopnia Celsjusza. W porównaniu do najmniejszej zaobserwowanej średniej temperatury jest to różnica aż 4 stopni.
+W ciągu najbliższych 30 lat średnia temperatura wzrośnie w Krakowie o około 0.5 stopnia Celsjusza. W porównaniu do najmniejszej zaobserwowanej średniej temperatury jest to różnica aż 4 stopnie.
 
